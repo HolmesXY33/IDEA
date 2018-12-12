@@ -1,0 +1,5 @@
+第一步：
+C:\Windows\System32\drivers\etc host文件打开文本最末尾添加：  0.0.0.0 account.jetbrains.com
+
+第二步：
+启动idea ，  输入通过 http://idea.lanyus.com/ 生成注册码 的即可。
